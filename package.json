@@ -1,0 +1,11 @@
+{
+  "name": "js-assignment-on-operators",
+  "version": "1.0.0",
+  "description": "how to know if a number is even or odd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nlewadim michael",
+  "license": "ISC"
+}
